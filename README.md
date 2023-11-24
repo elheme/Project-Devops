@@ -6,9 +6,9 @@ Implement a Java application utilizing a comprehensive CI/CD pipeline through Je
 
 
 
-Etape 1 : Clone Repository
-Etape 2 : Maven Build
-Etape 3 : Build docker image
-Etape 4 : Upload Artifacts
-Etape 5 : Deploy the App
-Etape 6 : QAT Test
+Step 1: Repository Cloning
+Step 2: Maven Building
+Step 3: Docker Image Building
+Step 4: Artifacts Upload
+Step 5: App Deployment
+Step 6: QAT Testing
